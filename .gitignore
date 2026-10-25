@@ -20,6 +20,10 @@ myenv/
 *.npy
 *.npz
 *.pkl
+*.csv
+*.ipynb
+*.md
+**/metrics.json
 **/submission.csv
 **/sample_submission.csv
 
