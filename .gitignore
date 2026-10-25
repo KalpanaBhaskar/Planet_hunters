@@ -23,6 +23,7 @@ myenv/
 *.csv
 *.ipynb
 *.md
+!/README.md
 **/metrics.json
 **/submission.csv
 **/sample_submission.csv
